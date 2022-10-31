@@ -35,7 +35,3 @@ Java 9
 
 * [DevOps Masterclass: CI/CD with Jenkins Pipelines Groovy DSL [Video]](https://www.packtpub.com/virtualization-and-cloud/devops-masterclass-cicd-jenkins-pipelines-groovy-dsl-video?utm_source=github&utm_medium=repository&utm_campaign=9781789953626)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781788398084">https://packt.link/free-ebook/9781788398084 </a> </p>
